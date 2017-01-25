@@ -1,0 +1,8 @@
+[package]
+name = "mimir"
+version = "0.1.0"
+authors = ["llblumire"]
+
+[dependencies]
+clap = "*"
+num = "*"
